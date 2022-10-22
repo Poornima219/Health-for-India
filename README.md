@@ -28,49 +28,49 @@ Other Azure Technologies : App Service
 ## Homepage
 ![Homepage](https://user-images.githubusercontent.com/111211348/197329866-7225d5bc-bd61-4472-9d66-a1f6373608ba.png)
 
-##Posts1
+## Posts1
 ![1](https://user-images.githubusercontent.com/111211348/197330022-f99bd8d9-f82b-4368-a22e-e4e6c920267c.png)
 
-##Post2
+## Post2
 ![2](https://user-images.githubusercontent.com/111211348/197330092-2fddd2c7-b1dc-40e1-9f14-539c8a22698d.png)
 
-##Post3
+## Post3
 ![3](https://user-images.githubusercontent.com/111211348/197330138-e7bd750c-0193-4963-a666-6bced47d014c.png)
 
-##Post4
+## Post4
 ![4](https://user-images.githubusercontent.com/111211348/197330179-52a2622b-6a1d-4698-ae58-7237db8760a3.png)
 
-##Post5
+## Post5
 ![5](https://user-images.githubusercontent.com/111211348/197332779-64d668c4-69bc-49e1-bb62-5d2b33307486.png)
 
-##Post6
+## Post6
 ![6](https://user-images.githubusercontent.com/111211348/197332791-60167bec-408f-43c4-8983-936c5463d22a.png)
 
-##Post7
+## Post7
 ![7](https://user-images.githubusercontent.com/111211348/197332800-d2d0b765-534d-40c7-90b6-8624f44491bd.png)
 
-##Post8
+## Post8
 ![8](https://user-images.githubusercontent.com/111211348/197332813-929acdb1-dc52-4ef4-8841-3a442b5999b7.png)
 
-##Post9
+## Post9
 ![9](https://user-images.githubusercontent.com/111211348/197332822-3d2aef5f-f14c-4258-aee4-806f9daa6860.png)
 
-##Post10
+## Post10
 ![10](https://user-images.githubusercontent.com/111211348/197332842-f3837696-83a8-4ff3-a8d5-3d37762cd594.png)
 
-##Disclaimer page
+## Disclaimer page
 ![Dis](https://user-images.githubusercontent.com/111211348/197332872-7d96c296-46f7-4644-b59b-7c599ec01b2b.png)
 
-##Policy Page
+## Policy Page
 ![PP](https://user-images.githubusercontent.com/111211348/197332903-f41e34e1-b83f-4e31-9931-39996dd20fb6.png)
 
-##About Page
+## About Page
 ![about](https://user-images.githubusercontent.com/111211348/197332921-9c352f78-ff22-4041-8006-9f9fbf63b471.png)
 
-##Overal page
+## Overal page
 ![All](https://user-images.githubusercontent.com/111211348/197332944-636442e2-25a0-4438-91d4-987b32977a4c.png)
 
-##Thank's page
+## Thank's page
 ![Thanks](https://user-images.githubusercontent.com/111211348/197332963-f31fc75f-2113-4951-a2a3-7e4d79c2d689.png)
 
 
